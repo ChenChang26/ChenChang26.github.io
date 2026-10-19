@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Doctor's degree in Information and Communication Engineering at the School of Communication Engineering, Jilin University, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>chenchang26@mails.jlu.edu.cn</code>  
+<code>13069731145@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Jilin University**, Bachelor of Communication Engineering (2022.09 – 2026.06)    
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Jilin University**, Doctoral student of Communication Engineering (2026.09 - present)   
 
 #### Research Interests  
-XX, XX, XX, XX.
+V2X.
